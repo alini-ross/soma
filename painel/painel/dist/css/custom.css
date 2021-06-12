@@ -1,0 +1,26 @@
+.galeria-projeto .item {
+    position: relative;
+    width: 33.333%;
+    float: left;
+}
+.galeria-projeto .item img {
+    object-fit: cover;
+    width: 100%;
+    height: 80px;
+    padding:5px;
+}
+.galeria-projeto .item > a.delete {
+    position: absolute;
+    background: red;
+    padding: 5px 10px;
+    font-size: 10px;
+    color: #fff;
+    right: 0;
+    z-index: 999;
+}
+.galeria-projeto .item > a.delete:hover {
+	opacity: .5;
+}
+  table#projetos-lista td {
+    white-space: nowrap;
+  }
