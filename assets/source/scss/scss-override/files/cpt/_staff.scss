@@ -1,0 +1,45 @@
+/*
+ * Shortcode: staff.scss
+ * -----------------------------------------------
+*/
+
+.team-item {
+	position: relative;
+	.team-thumb {
+		overflow: hidden;
+		img {
+			@include scale(1);
+			@include transition(all .4s ease-in-out);
+		}
+	}
+	.team-content {
+		position: absolute;
+		bottom: -90px;
+		left: 0;
+		right: 0;
+		background: #fff;
+		text-align: center;
+		width: 85%;
+		@include transition(all 300ms ease-in-out 0s);
+		padding: 30px;
+		margin: 0 auto;
+		opacity: 0;
+		.team-name {
+			font-size: 28px;
+			line-height: 32px;
+		}
+		.team-title {
+			font-size: 60px;
+		}
+	}
+	&:hover {
+		.team-thumb {
+			img {
+				@include scale(1.1);
+			}
+		}
+		.team-content {
+			opacity: 1;
+		}
+	}
+}

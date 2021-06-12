@@ -1,0 +1,50 @@
+/*
+ * Shortcode: current-theme.scss
+ * -----------------------------------------------
+*/
+.how-we-works-item:hover .numbering span {
+	background: $theme-color1;
+}
+
+.get-cheap-car-item {
+	background: $theme-color1;
+}
+.tm-sc-departments-tab .nav-tabs > li.active > a.active i,
+.tm-sc-departments-tab .nav-tabs > li:hover > a.active i {
+	color: $theme-color1;
+}
+.tm-sc-departments-tab .nav-tabs > li > a i {
+	color: $theme-color1;
+}
+.tm-sc-departments-tab .nav-tabs > li > a {
+	color: $theme-color2;
+}
+
+.tm-sc-departments-tab .nav-tabs > li.active > a:before {
+	border-color: $theme-color1 transparent transparent transparent;
+}
+.tm-sc-departments-tab .nav-tabs > li.active > a {
+	background: $theme-color1;
+}
+.tab-contact .icon i {
+	background: $theme-color1;
+}
+.tab-contact .number-part .number {
+	color: $theme-color1;
+}
+.cp-video-divider .play-video-button .effect-wrapper {
+	background: $theme-color1;
+}
+.owl-carousel.news-carousel-nav .owl-nav button i {
+	color: $theme-color2;
+}
+.owl-carousel.news-carousel-nav .owl-nav button {
+	background: #fff !important;
+}
+.owl-carousel.news-carousel-nav .owl-nav button:hover {
+	background: $theme-color2 !important;
+}
+
+.footer-contact-box .icon i {
+	background: $theme-color1;
+}

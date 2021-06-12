@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "flaticon-insurance";
+  src: url("./flaticon-insurance.eot");
+  src: url("./flaticon-insurance.eot?#iefix") format("embedded-opentype"),
+       url("./flaticon-insurance.woff2") format("woff2"),
+       url("./flaticon-insurance.woff") format("woff"),
+       url("./flaticon-insurance.ttf") format("truetype"),
+       url("./flaticon-insurance.svg#flaticon-insurance") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon-insurance";
+    src: url("./flaticon-insurance.svg#flaticon-insurance") format("svg");
+  }
+}
+
+[class^="flaticon-insurance-"]:before, [class*=" flaticon-insurance-"]:before,
+[class^="flaticon-insurance-"]:after, [class*=" flaticon-insurance-"]:after {   
+  font-family: flaticon-insurance;
+  font-style: normal;
+}
+
+.flaticon-insurance-001-heart-rate:before { content: "\f100"; }
+.flaticon-insurance-002-dollar-note:before { content: "\f101"; }
+.flaticon-insurance-003-piggy-bank:before { content: "\f102"; }
+.flaticon-insurance-004-locker:before { content: "\f103"; }
+.flaticon-insurance-005-handshake:before { content: "\f104"; }
+.flaticon-insurance-006-house:before { content: "\f105"; }
+.flaticon-insurance-007-aeroplane:before { content: "\f106"; }
+.flaticon-insurance-008-box:before { content: "\f107"; }
+.flaticon-insurance-009-money:before { content: "\f108"; }
+.flaticon-insurance-010-cruise-ship:before { content: "\f109"; }
+.flaticon-insurance-011-fire:before { content: "\f10a"; }
+.flaticon-insurance-012-car:before { content: "\f10b"; }
+.flaticon-insurance-013-man:before { content: "\f10c"; }
+.flaticon-insurance-014-lifesaver:before { content: "\f10d"; }
+.flaticon-insurance-015-man:before { content: "\f10e"; }
+.flaticon-insurance-016-military-jeep:before { content: "\f10f"; }
+.flaticon-insurance-017-portfolio:before { content: "\f110"; }
+.flaticon-insurance-018-bulb:before { content: "\f111"; }
+.flaticon-insurance-019-worker:before { content: "\f112"; }
+.flaticon-insurance-020-scale:before { content: "\f113"; }
+.flaticon-insurance-021-hammer:before { content: "\f114"; }
+.flaticon-insurance-022-paper:before { content: "\f115"; }
+.flaticon-insurance-023-shield:before { content: "\f116"; }
+.flaticon-insurance-024-credit-card:before { content: "\f117"; }
+.flaticon-insurance-025-file:before { content: "\f118"; }
+.flaticon-insurance-026-love:before { content: "\f119"; }
+.flaticon-insurance-027-clipboard:before { content: "\f11a"; }
+.flaticon-insurance-028-pet-insurance:before { content: "\f11b"; }
+.flaticon-insurance-029-shield:before { content: "\f11c"; }
+.flaticon-insurance-030-home-insurance:before { content: "\f11d"; }
+.flaticon-insurance-031-baby-boy:before { content: "\f11e"; }
+.flaticon-insurance-032-bank:before { content: "\f11f"; }
+.flaticon-insurance-033-global:before { content: "\f120"; }
+.flaticon-insurance-034-buy-home:before { content: "\f121"; }
+.flaticon-insurance-035-calculator:before { content: "\f122"; }
+.flaticon-insurance-036-car:before { content: "\f123"; }
+.flaticon-insurance-037-industry:before { content: "\f124"; }
+.flaticon-insurance-038-medical-insurance:before { content: "\f125"; }
+.flaticon-insurance-039-user:before { content: "\f126"; }
+.flaticon-insurance-040-building:before { content: "\f127"; }
+.flaticon-insurance-041-insurance:before { content: "\f128"; }
+.flaticon-insurance-042-mobile-phone:before { content: "\f129"; }
+.flaticon-insurance-043-bicycle:before { content: "\f12a"; }
+.flaticon-insurance-044-eye-insurance:before { content: "\f12b"; }
+.flaticon-insurance-045-coffin:before { content: "\f12c"; }
+.flaticon-insurance-046-plastered-foot:before { content: "\f12d"; }
+.flaticon-insurance-047-alert:before { content: "\f12e"; }
+.flaticon-insurance-048-shield:before { content: "\f12f"; }
+.flaticon-insurance-049-shield:before { content: "\f130"; }
+.flaticon-insurance-050-house:before { content: "\f131"; }
